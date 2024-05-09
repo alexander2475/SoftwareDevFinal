@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"settings","l":"getInstance()"},{"p":"<Unnamed>","c":"settings","l":"printSettings()"}];updateSearchResults();
